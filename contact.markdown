@@ -9,8 +9,6 @@ Want to cooperate with me, leave your info here and we will contact you as soon 
 <html>
 <body>
 
-<h2>Text field</h2>
-
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname"><br>
